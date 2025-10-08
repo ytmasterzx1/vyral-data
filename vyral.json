@@ -13,13 +13,13 @@
     "english": {
       "headline": "REMOTE OK",
       "result": "1st HiVE; 2nd Virtus.pro; 3rd Twisted Minds; 4th BB Team",
-      "news_text": "HiVE top the 12-game LC to secure a Masters West berth. Virtus.pro, Twisted Minds, and BB Team also qualify.",
+      "news_text": "HiVE win Last Chance and qualify for Masters West.",
       "source": "https://liquipedia.net/pubg/PUBG_Players_Tour/Masters_West/2025/Last_Chance_Stage/EMEA"
     },
     "arabic": {
       "headline": "REMOTE OK — تم التحديث",
       "result": "الأول HiVE؛ الثاني Virtus.pro؛ الثالث Twisted Minds؛ الرابع BB Team",
-      "news_text": "تصدّر HiVE نتائج 12 جولة وحجز مقعد Masters West. وتأهلت Virtus.pro وTwisted Minds وBB Team.",
+      "news_text": "HiVE يحسم لقب الفرصة الأخيرة ويتأهل إلى Masters West.",
       "source": "https://liquipedia.net/pubg/PUBG_Players_Tour/Masters_West/2025/Last_Chance_Stage/EMEA"
     }
   },
@@ -35,12 +35,12 @@
     "profiles": ["valesports"],
     "english": {
       "headline": "Fnatic secure top-3 in EMEA Playoffs",
-      "news_text": "Fnatic clinch a top-3 finish to qualify for Champions.",
+      "news_text": "Fnatic clinch top-3 and reach Champions.",
       "source": "https://dotesports.com/valorant"
     },
     "arabic": {
       "headline": "Fnatic يضمن المراكز الثلاثة الأولى في EMEA",
-      "news_text": "تأهل رسمي الى Champions بعد فوز حاسم.",
+      "news_text": "تأهل إلى Champions بعد فوز حاسم.",
       "source": "https://dotesports.com/valorant"
     }
   },
@@ -53,16 +53,16 @@
     "region": "EMEA",
     "stage": "Grand Final",
     "teams": ["Z10|Saint", "GHZ|Roynichi"],
-    "scoreline": "3–2 reset",
+    "scoreline": "3-2 reset",
     "profiles": ["TekkenWorldTour"],
     "english": {
       "headline": "Saint wins Punishment 5 after reset",
-      "news_text": "Saint takes the grand final 3–2 after bracket reset to earn vital TWT points.",
+      "news_text": "Saint takes the grand final 3-2 and earns key TWT points.",
       "source": "https://www.eventhubs.com/"
     },
     "arabic": {
-      "headline": "Saint يحسم Punishment 5 بعد اعادة النهائي",
-      "news_text": "فوز 3–2 ونقاط مهمة في الترتيب.",
+      "headline": "Saint يحسم Punishment 5 بعد إعادة النهائي",
+      "news_text": "فوز 3-2 ونقاط مهمة في الترتيب.",
       "source": "https://www.eventhubs.com/"
     }
   },
@@ -83,7 +83,7 @@
     },
     "arabic": {
       "headline": "NRG تتوج ببطولة العالم RLCS",
-      "news_text": "مسار قوي حتى النهائي والتتويج.",
+      "news_text": "مشوار قوي حتى النهائي والتتويج.",
       "source": "https://liquipedia.net/rocketleague"
     }
   },
@@ -103,7 +103,7 @@
     },
     "arabic": {
       "headline": "نشر جدول ALGS EMEA",
-      "news_text": "الصفحة تجمع المواعيد والمعلومات.",
+      "news_text": "صفحة Liquipedia تعرض المواعيد والتفاصيل.",
       "source": "https://liquipedia.net/apexlegends/Portal:Tournaments"
     }
   }
