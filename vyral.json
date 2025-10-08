@@ -17,10 +17,90 @@
       "source": "https://liquipedia.net/pubg/PUBG_Players_Tour/Masters_West/2025/Last_Chance_Stage/EMEA"
     },
     "arabic": {
-      "headline": "تم التحديث — REMOTE OK",
+      "headline": "REMOTE OK — تم التحديث",
       "result": "الأول HiVE؛ الثاني Virtus.pro؛ الثالث Twisted Minds؛ الرابع BB Team",
       "news_text": "تصدّر HiVE نتائج 12 جولة وحجز مقعد Masters West. وتأهلت Virtus.pro وTwisted Minds وBB Team.",
       "source": "https://liquipedia.net/pubg/PUBG_Players_Tour/Masters_West/2025/Last_Chance_Stage/EMEA"
     }
-  }
-]
+  },
+  {
+    "game": "Valorant",
+    "date": "2025-10-07",
+    "category": "Tournament Results",
+    "tournament_name": "VCT EMEA Playoffs",
+    "league": "VCT 2025",
+    "region": "EMEA",
+    "stage": "Playoffs",
+    "teams": ["Fnatic", "NAVI"],
+    "profiles": ["valesports"],
+    "english": {
+      "headline": "Fnatic secure top-3 in EMEA Playoffs",
+      "news_text": "Fnatic clinch a top-3 finish to qualify for Champions.",
+      "source": "https://dotesports.com/valorant"
+    },
+    "arabic": {
+      "headline": "Fnatic يضمن المراكز الثلاثة الأولى في EMEA",
+      "news_text": "تأهل رسمي الى Champions بعد فوز حاسم.",
+      "source": "https://dotesports.com/valorant"
+    }
+  },
+  {
+    "game": "Tekken 8",
+    "date": "2025-10-05",
+    "category": "Tournament Results",
+    "tournament_name": "Punishment 5",
+    "league": "TWT 2025",
+    "region": "EMEA",
+    "stage": "Grand Final",
+    "teams": ["Z10|Saint", "GHZ|Roynichi"],
+    "scoreline": "3–2 reset",
+    "profiles": ["TekkenWorldTour"],
+    "english": {
+      "headline": "Saint wins Punishment 5 after reset",
+      "news_text": "Saint takes the grand final 3–2 after bracket reset to earn vital TWT points.",
+      "source": "https://www.eventhubs.com/"
+    },
+    "arabic": {
+      "headline": "Saint يحسم Punishment 5 بعد اعادة النهائي",
+      "news_text": "فوز 3–2 ونقاط مهمة في الترتيب.",
+      "source": "https://www.eventhubs.com/"
+    }
+  },
+  {
+    "game": "Rocket League",
+    "date": "2025-10-03",
+    "category": "Tournament Results",
+    "tournament_name": "RLCS Worlds",
+    "league": "RLCS 2025",
+    "region": "NA",
+    "stage": "Grand Final",
+    "teams": ["NRG"],
+    "profiles": ["RLEsports"],
+    "english": {
+      "headline": "NRG lift RLCS Worlds trophy",
+      "news_text": "NRG conquer the bracket to win Worlds.",
+      "source": "https://liquipedia.net/rocketleague"
+    },
+    "arabic": {
+      "headline": "NRG تتوج ببطولة العالم RLCS",
+      "news_text": "مسار قوي حتى النهائي والتتويج.",
+      "source": "https://liquipedia.net/rocketleague"
+    }
+  },
+  {
+    "game": "Apex Legends",
+    "date": "2025-10-06",
+    "category": "Upcoming Events",
+    "tournament_name": "ALGS Pro League Split",
+    "league": "ALGS",
+    "region": "EMEA",
+    "stage": "League",
+    "profiles": ["PlayApexEsports"],
+    "english": {
+      "headline": "ALGS EMEA schedule posted",
+      "news_text": "Dates and hub available on Liquipedia.",
+      "source": "https://liquipedia.net/apexlegends/Portal:Tournaments"
+    },
+    "arabic": {
+      "headline": "نشر جدول ALGS EMEA",
+      "new
